@@ -9,7 +9,7 @@ Just clone/download and run on debug mode in visual studio.
 Debug x86 as Win32
 
 
-Keys Are Configure as follows:
+Keys are configured as follows : 
 
 0 1 2 3  >> 1 2 3 4
 4 5 6 7  >> q w e r
