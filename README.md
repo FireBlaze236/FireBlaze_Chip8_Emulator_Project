@@ -7,3 +7,13 @@ Everything should be set up correctly by default, as it is a visual studio proje
 Just clone/download and run on debug mode in visual studio. 
 
 Debug x86 as Win32
+
+
+Keys Are Configure as follows:
+
+0 1 2 3  >> 1 2 3 4
+4 5 6 7  >> q w e r
+8 9 A B  >> a s d f
+C D E F  >> z x c v
+
+
